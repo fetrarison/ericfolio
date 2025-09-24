@@ -91,8 +91,12 @@ const Hero = ({ language, setActiveSection }: HeroProps) => {
           >
             <div className="w-full h-full rounded-full bg-gradient-gold p-1 animate-glow">
               <div className="w-full h-full rounded-full bg-gray-300 flex items-center justify-center text-6xl font-bold text-dark-700 relative overflow-hidden">
-                {/* Placeholder pour la photo */}
-                <span>FE</span>
+               <img
+  src="/FETRARISON.jpg"
+  alt="Profile"
+  className="w-full h-full object-cover rounded-full"
+/>
+
                 <div className="absolute inset-0 bg-gradient-to-br from-gold-500/20 to-transparent rounded-full"></div>
               </div>
             </div>
