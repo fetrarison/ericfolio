@@ -92,7 +92,7 @@ const Hero = ({ language, setActiveSection }: HeroProps) => {
             <div className="w-full h-full rounded-full bg-gradient-gold p-1 animate-glow">
               <div className="w-full h-full rounded-full bg-gray-300 flex items-center justify-center text-6xl font-bold text-dark-700 relative overflow-hidden">
                <img
-  src="https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=400"
+  src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400"
   alt="Profile"
   className="w-full h-full object-cover rounded-full"
 />
